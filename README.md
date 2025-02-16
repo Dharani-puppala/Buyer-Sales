@@ -13,6 +13,9 @@ Modify data types as necessary (e.g., converting text fields to dimensions and n
 
 Define key dimensions and metrics for analysis.
 
+## Data Dictonary
+![Image](https://github.com/user-attachments/assets/d449efca-3c9b-4a8f-a704-827015c086b0)
+
 ## Plan of Action
 
 1. Sales Contribution Analysis
