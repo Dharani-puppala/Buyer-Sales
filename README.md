@@ -45,6 +45,7 @@ Total Buyers
 3. Table Chart
 
 Columns: Coupon Code, Sales Revenue, Discount Amount, Total Buyers
+ Added Promo Code feild which is  cleaned version of  coupon code data.
 
 Additional Fields: Show Target and Target Value
 
