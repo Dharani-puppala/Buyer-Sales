@@ -18,7 +18,7 @@ Define key dimensions and metrics for analysis.
 
 ## Plan of Action
 
-1. Sales Contribution Analysis
+1.Sales Contribution Analysis
 
 Pie Chart: Displays sales contribution by product.
 
@@ -58,6 +58,9 @@ Metrics: Price vs. Months
 Reference Line 1: Represents average sales revenue to identify best and worst-performing months.
 
 Reference Line 2: Indicates sales target for each month.
+
+5. Control feilds:
+   
 
 ## Key Features
 
