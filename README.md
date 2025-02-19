@@ -59,7 +59,8 @@ Reference Line 1: Represents average sales revenue to identify best and worst-pe
 
 Reference Line 2: Indicates sales target for each month.
 
-5. Control feilds:
+5.Filteration By Country
+Control feilds: Add drop down contronl feild with delivery country
    
 
 ## Key Features
