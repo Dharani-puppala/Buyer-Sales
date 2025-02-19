@@ -64,7 +64,7 @@ Reference Line 2: Indicates sales target for each month.
 Control filter: Added drop down contronl feild with delivery country
 
 6. Date Range Control
-Control filter:
+Control filter: Added  date range control filter to adjust the dates based on requriments
    
 
 ## Key Features
